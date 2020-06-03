@@ -1,2 +1,2 @@
 # saranshqm56.github.io
- personal website @ https://saranshqm.github.io/saransh/
+ personal website @ https://saranshqm.github.io/
